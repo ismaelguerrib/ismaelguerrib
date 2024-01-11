@@ -1,16 +1,73 @@
-### Hi there 👋
+# Ismaël Guerrib 👋
 
-<!--
-**ismaelguerrib/ismaelguerrib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TypeScript Developer 👨🏻‍💻 ┃ "Wax on, wax off" Senpaï 🥷
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Information ☎
+- **Phone:** 0789655198
+- **Email:** ismael.guerrib85@gmail.com
+- **LinkedIn:** [Ismaël Guerrib](https://www.linkedin.com/in/ismaelguerrib/)
+
+## Summary 💡
+With four years of experience as a TypeScript Developer, I specialize in crafting web applications. 
+
+A creative problem solver with a strong team-oriented mindset, I am comfortable working independently but thrive in collaborative environments, delivering high-quality projects and refining coding practices together.
+
+## Skills 🦾
+![TypeScript](https://img.shields.io/badge/-TypeScript-3077C6?style=flat-square) 
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat-square)
+![TypeORM](https://img.shields.io/badge/-TypeORM-EB596E?style=flat-square&logo=typeorm&logoColor=white)
+![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-764ABC?style=flat-square)
+![SOLID](https://img.shields.io/badge/-SOLID-333333?style=flat-square)
+
+## Professional Experience 💻
+
+### TypeScript Developer ✨
+**Agence Buddyweb | Nov 2020 - Present (Paris)**
+- Fullstack developer for various customers and project stacks 
+- Designed, developed, and deployed new features on Angular websites
+- Wrote unit tests to turn Jasmine, Jest & Karma all green
+- Closed almost 1000 issues on Github, wrote and commented a few too 
+- Maintaned and created the contribution environment of an Open-Source BaaS
+- Participated in the project architecture thinking of an Open-Source BaaS
+- Followed team processes including code reviews, pull requests, conventional commits & SOLID way of coding
+- Used Agile and SCRUM methodologies
+  
+
+### Communication and web marketing assistant 💥
+**Ticket for Change | Dec 2017 - Sept 2020 (Paris)**
+- Took part in the thinking of the website redesigns
+- Built a CRM with no-code tools 
+- Start-up workflow with Agile methodologies 
+
+### Growth Hacker ⚙️
+**Meet My Mama | Oct 2018 - Juin 2019 (Paris)**
+- Used growth hacking techniques to increase community on social media
+- Planned an editorial strategy on social networks
+- Freelance autonomous work driven by OKR methodologies 
+
+
+## Education 🎓
+- Master of Technology - Tech Lead, Digital Campus (Paris, 2019 - 2021) - RNCP de niveau 7 
+- Full Stack Web Development bootcamp, Ironhack (Paris, 2019) - RNCP de niveau 6
+- Communication Degree , Institut des Technosciences de l'Information et de la Communication ( Montpellier, 2015 - 2018) - RNCP de niveau 6
+
+
+## Personal Interests 🎉
+- Hiking 🏔️
+- Mediteranean cooking 🤌
+- Tech culture 💻
+- Philosophy & Spiritual wellness 🌱
+- Art 🖼️
+- Hip-hop Culture 🎙️
+
+## Additional Information 📜
+- Full professional proficiency in English 🇺🇸
+- Open to remote work on small projects 🌍
+- Slow reader of Vagabond by Takehiko Inoue because it's too good to come to an end 👀 
+- If we play basketball together I would score more 3 points than dunks 🏀
