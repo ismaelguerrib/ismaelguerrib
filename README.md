@@ -14,16 +14,18 @@ With four years of experience as a TypeScript Developer, I specialize in craftin
 A creative problem solver with a strong team-oriented mindset, I am comfortable working independently but thrive in collaborative environments, delivering high-quality projects and refining coding practices together.
 
 ## Skills 🦾
-![TypeScript](https://img.shields.io/badge/-TypeScript-3077C6?style=flat-square) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3077C6?style=flat-square&logo=typescript&logoColor=white) 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat-square)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-EB596E?style=flat-square&logo=typeorm&logoColor=white)
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-764ABC?style=flat-square)
-![SOLID](https://img.shields.io/badge/-SOLID-333333?style=flat-square)
+![SOLID](https://img.shields.io/badge/-SOLID-800080?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 
 ## Professional Experience 💻
 
