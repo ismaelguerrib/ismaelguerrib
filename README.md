@@ -25,6 +25,10 @@ A creative problem solver with a strong team-oriented mindset, I am comfortable 
 ![Scrum](https://img.shields.io/badge/-Scrum-764ABC?style=flat-square)
 ![SOLID](https://img.shields.io/badge/-SOLID-800080?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white)
+
+
 
 
 ## Professional Experience 💻
