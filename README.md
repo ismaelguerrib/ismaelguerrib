@@ -34,7 +34,7 @@ A creative problem solver with a strong team-oriented mindset, I am comfortable 
 ## Professional Experience 💻
 
 ### TypeScript Developer ✨
-**Agence Buddyweb | Nov 2020 - Present (Paris)**
+**Agence Buddyweb | Sept 2020 - Present (Paris)**
 - Fullstack developer for various customers and project stacks 
 - Designed, developed, and deployed new features on Angular websites
 - Wrote unit tests to turn Jasmine, Jest & Karma all green
@@ -46,7 +46,7 @@ A creative problem solver with a strong team-oriented mindset, I am comfortable 
   
 
 ### Communication and web marketing assistant 💥
-**Ticket for Change | Dec 2017 - Sept 2020 (Paris)**
+**Ticket for Change | Dec 2017 - Aug 2020 (Paris)**
 - Took part in the thinking of the website redesigns
 - Built a CRM with no-code tools 
 - Start-up workflow with Agile methodologies 
