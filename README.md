@@ -9,7 +9,7 @@ TypeScript Developer 👨🏻‍💻 ┃ "Wax on, wax off" Senpaï 🥷
 - **LinkedIn:** [Ismaël Guerrib](https://www.linkedin.com/in/ismaelguerrib/)
 
 ## Summary 💡
-With four years of experience as a TypeScript Developer, I specialize in crafting web applications. 
+With more than four years of experience as a TypeScript Developer, I specialize in crafting web applications. 
 
 A creative problem solver with a strong team-oriented mindset, I am comfortable working independently but thrive in collaborative environments, delivering high-quality projects and refining coding practices together.
 
