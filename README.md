@@ -4,7 +4,7 @@ TypeScript Developer 👨🏻‍💻 ┃ "Wax on, wax off" Senpaï 🥷
 
 
 ## Contact Information ☎
-- **Phone:** 0789655198
+- **Phone:** +33 789655198
 - **Email:** ismael.guerrib85@gmail.com
 - **LinkedIn:** [Ismaël Guerrib](https://www.linkedin.com/in/ismaelguerrib/)
 
