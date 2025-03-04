@@ -17,10 +17,10 @@ A creative problem solver with a strong team-oriented mindset, I am comfortable 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3077C6?style=flat-square&logo=typescript&logoColor=white) 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat-square)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![tRPC](https://img.shields.io/badge/-TRPC-00D1B2?style=flat-square&logo=trpc&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![tRPC](https://img.shields.io/badge/-TRPC-00D1B2?style=flat-square&logo=trpc&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-EB596E?style=flat-square&logo=typeorm&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-3077C6?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white)
@@ -35,6 +35,15 @@ A creative problem solver with a strong team-oriented mindset, I am comfortable 
 
 
 ## Professional Experience 💻
+
+### TypeScript Developer ✨
+**Optee | Sept 2024 - Mars 2025 (Paris)**
+- Fullstack development with Analog, tRPC, Drizzle, Supabase, Tailwind.
+- Authentication flow management and password recovery implementation.
+- Role-Based Access Control (RBAC) system setup.
+- Database migrations and seeding.
+- Automation script writing to extend HubSpot functionalities.
+- Methodology based on reactive and declarative code.
 
 ### TypeScript Developer ✨
 **Agence Buddyweb | Sept 2020 - Present (Paris)**
