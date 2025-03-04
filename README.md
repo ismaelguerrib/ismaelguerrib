@@ -71,9 +71,9 @@ A creative problem solver with a strong team-oriented mindset, I am comfortable 
 
 
 ## Education 🎓
-- Master of Technology - Tech Lead, Digital Campus (Paris, 2019 - 2021) - RNCP de niveau 7 
-- Full Stack Web Development bootcamp, Ironhack (Paris, 2019) - RNCP de niveau 6
-- Communication Degree , Institut des Technosciences de l'Information et de la Communication ( Montpellier, 2015 - 2018) - RNCP de niveau 6
+- Master of Technology - Tech Lead, Digital Campus (Paris, 2019 - 2021) - RNCP 7 
+- Full Stack Web Development bootcamp, Ironhack (Paris, 2019) - RNCP 6
+- Communication Degree , Institut des Technosciences de l'Information et de la Communication ( Montpellier, 2015 - 2018) - RNCP 6
 
 
 ## Personal Interests 🎉
