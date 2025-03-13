@@ -46,7 +46,7 @@ A creative problem solver with a strong team-oriented mindset, I am comfortable 
 - Methodology based on reactive and declarative code.
 
 ### TypeScript Developer ✨
-**Agence Buddyweb | Sept 2020 - Present (Paris)**
+**Agence Buddyweb | Sept 2020 - Sept 2024 (Paris)**
 - Fullstack developer for various customers and project stacks 
 - Designed, developed, and deployed new features on Angular websites
 - Wrote unit tests to turn Jasmine, Jest & Karma all green
