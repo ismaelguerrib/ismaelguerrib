@@ -37,6 +37,15 @@ A creative problem solver with a strong team-oriented mindset, I am comfortable 
 ## Professional Experience 💻
 
 ### TypeScript Developer ✨
+**OECD | Mars 2025 - Present (Remote)**
+- Fullstack development with Angular, Nest.JS.
+- Designed, developed, and deployed new features on Angular websites
+- Refactoring old features wrote for Angular 8 to Angular 20
+- Co-creation of team processes including code standards configurations, code reviews, pull requests, conventional commits
+
+
+
+### TypeScript Developer ✨
 **Optee | Sept 2024 - Mars 2025 (Paris)**
 - Fullstack development with Analog, tRPC, Drizzle, Supabase, Tailwind.
 - Authentication flow management and password recovery implementation.
