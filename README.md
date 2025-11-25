@@ -96,6 +96,6 @@ A creative problem solver with a strong team-oriented mindset, I am comfortable 
 ## Additional Information 📜
 - Full professional proficiency in English 🇺🇸
 - Open to remote work 🌍
-- Often digging on Internet Archive to find some old interessting stuff 🏛️
+- Often digging through the Internet Archive to uncover interesting old gems 🏛️
 - Slow reader of Vagabond by Takehiko Inoue because it's too good to come to an end 👀 
 - If we play basketball together I would score more 3 points than dunks 🏀
