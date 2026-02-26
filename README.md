@@ -37,7 +37,7 @@ A creative problem solver with a strong team-oriented mindset, I am comfortable 
 ## Professional Experience 💻
 
 ### TypeScript Developer ✨
-**OECD | Mars 2025 - Present (Remote)**
+**OECD.AI | Mars 2025 - Present (Remote)**
 - Fullstack development with Angular, Nest.JS.
 - Designed, developed, and deployed new features on Angular websites
 - Refactoring old features wrote for Angular 8 to Angular 20
